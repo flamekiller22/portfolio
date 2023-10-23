@@ -38,12 +38,12 @@ const Contact = () => {
               </a>
             </div>
 
-            <a href={`https://twitter.com/${TWITTER_ID}`} target='_blank' rel='noreferrer'>
+            {/* <a href={`https://twitter.com/${TWITTER_ID}`} target='_blank' rel='noreferrer'>
               <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm'>
                 <img src='./images/icons/icons8-twitter (2).svg' alt='' width='24px' height='24px' className='mr-1' />
                  Twitter
               </span>
-            </a>
+            </a> */}
           </div>
         </div>
 

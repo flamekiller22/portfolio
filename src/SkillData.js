@@ -19,19 +19,6 @@ const Proficient = [
         skill: "Git",
         logo: "./images/icons/git-scm-icon.svg"
     },
-    
-    {
-        skill: "SocketIO",
-        logo: "./images/icons/socket-io.svg"
-    },
-    {
-        skill: "C Language",
-        logo: "./images/icons/icons8-c-programming-48.png"
-    },
-    {
-        skill: "C++ Language",
-        logo: "./images/icons/icons8-c++.svg"
-    },
     {
         skill: "MySql",
         logo: "./images/icons/mysql-ar21.svg"
@@ -59,16 +46,8 @@ const Familiar = [
         logo: "./images/icons/python-icon.svg"
     },
     {
-        skill: "WebRTC",
-        logo: "./images/icons/webrtc.svg"
-    },
-    {
         skill: "Linux",
         logo: "./images/icons/linux-icon.svg"
-    },
-    {
-        skill: "AWS",
-        logo: "./images/icons/amazon_aws-icon.svg"
     },
     
 ]
